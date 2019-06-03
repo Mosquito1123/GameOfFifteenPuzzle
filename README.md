@@ -1,5 +1,5 @@
 Game of Fifteen
-[![Codemagic build status](https://api.codemagic.io/apps/5c88cb243bcac07f80e4a1ec/5c88cb243bcac07f80e4a1eb/status_badge.svg)](https://codemagic.io/apps/5c88cb243bcac07f80e4a1ec/5c88cb243bcac07f80e4a1eb/latest_build)
+
 ==========
 
 <img alt="Main screen: Light" align="right" height="400"
@@ -12,10 +12,7 @@ Game of Fifteen
 
 The Game of Fifteen (also called 15-puzzle, Gem Puzzle, Boss Puzzle, Mystic Square and many others) is a sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing. 
 
-<a href="https://play.google.com/store/apps/details?id=com.artemchep.fifteenpuzzle">
-  <img alt="Get Game of Fifteen on Google Play" vspace="20"
-       src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="60" />
-</a>
+
 
 Report a bug or request a feature
 ----------------

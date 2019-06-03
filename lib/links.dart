@@ -1,3 +1,4 @@
-const URL_REPOSITORY = "https://github.com/AChep/15puzzle";
-const URL_FEEDBACK = "https://github.com/AChep/15puzzle/issues";
-const URL_AUTHOR = "https://artemchep.com";
+const URL_REPOSITORY = "https://github.com/Mosquito1123/GameOfFifteenPuzzle";
+const URL_FEEDBACK =
+    "https://github.com/Mosquito1123/GameOfFifteenPuzzle/issues";
+const URL_AUTHOR = "https://github.com/Mosquito1123";

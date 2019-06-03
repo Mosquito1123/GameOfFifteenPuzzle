@@ -52,6 +52,7 @@ class _MyMaterialApp extends _MyPlatformApp {
     );
 
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: title,
       theme: theme.copyWith(
         primaryColor: Colors.blue,

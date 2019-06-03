@@ -1,0 +1,8 @@
+app_identifier("GameOfFifteenPuzzle") # The bundle identifier of your app
+apple_id("jjipdz@yeah.net") # Your Apple email address
+
+itc_team_id("120072213") # App Store Connect Team ID
+team_id("W5DAYZ2NU9") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

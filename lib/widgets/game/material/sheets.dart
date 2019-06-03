@@ -78,17 +78,17 @@ Widget createMoreBottomSheet(
                 });
           },
         ),
-        IconButton(
-          icon: const Icon(Icons.credit_card),
-          onPressed: () {
-            Navigator.of(context).pop();
-            showDialog(
-                context: context,
-                builder: (context) {
-                  return DonateDialog();
-                });
-          },
-        ),
+//        IconButton(
+//          icon: const Icon(Icons.credit_card),
+//          onPressed: () {
+//            Navigator.of(context).pop();
+//            showDialog(
+//                context: context,
+//                builder: (context) {
+//                  return DonateDialog();
+//                });
+//          },
+//        ),
         Expanded(
           child: Align(
             alignment: Alignment.centerRight,
